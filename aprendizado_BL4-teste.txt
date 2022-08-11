@@ -1,0 +1,30 @@
+##### CIÊNCIA DA COMPUTAÇÃO #####
+
+#### Bloco 33: Soquetes
+
+- [ ] 30-1: _Soquetes - TCP/UDP e NET_
+- [ ] 30-2: _Sockets - Socket.io_
+- [ ] 30-3: _[Projeto - Webchat]()_
+
+##### Bloco 34: Projeto
+
+- [ ] 34-1: _[Projeto - Trybeer V2]()_
+
+## Ciência da Computação :hourglass_flowing_sand:
+
+##### Bloco 35: Introdução - Ciência da Computação
+
+- [ ] 35-1: _Arquitetura de Computadores_
+- [ ] 35-2: _Arquitetura de Rede_
+- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
+- [ ] 35-4: _[Projeto - Explorando os Protocolos]()_
+
+##### Bloco 36: Python
+
+- [ ] 35-1: _Aprendendo Python_
+- [ ] 35-2: _Testes e exceções_
+- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-4: _Entrada e saída de dados_
+- [ ] 35-5: _[Projeto - Notícias de tecnologia]()_
+
+# [...]
