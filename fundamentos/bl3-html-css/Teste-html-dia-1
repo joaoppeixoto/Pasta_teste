@@ -1,15 +1,15 @@
-<!CODETYPE html>
-<html lang = "pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title> Lista de Amizades</title>
-        </head>
+<!DOCTYPE html>
+<html></html> lang ="pt-br"
+<head>
+    <meta charset="UTF8">
+    </title> João Peixoto</title>
+</head>
 <body>
-    <li>lucas</li>
-    <li>Conan</li>
-    <li>Nix</li>
-    <li>Jonas</li>
+<br>
+<img src = "imagem-teste-joao.jpg">
+
+<p> Estudante de Desenvolvimento na Trybe</p>
+
+
+
 </body>
-
-
-        </html>
