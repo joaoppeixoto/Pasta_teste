@@ -1,0 +1,15 @@
+<!CODETYPE html>
+<html lang = "pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title> Lista de Amizades</title>
+        </head>
+<body>
+    <li>lucas</li>
+    <li>Conan</li>
+    <li>Nix</li>
+    <li>Jonas</li>
+</body>
+
+
+        </html>
